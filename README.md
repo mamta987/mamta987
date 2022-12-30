@@ -1,7 +1,7 @@
 # Hi, Welcome to Mamta's Data World
 
 You can find me on 
-- [LinkedIN](www.linkedin.com/in/mamta-kumari-432337129)
+- [LinkedIN](https://www.linkedin.com/in/mamta-kumari-432337129/)
 - [Tableau](https://public.tableau.com/app/profile/mamta.kumari8608)
 
 <!---
