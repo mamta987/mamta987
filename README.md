@@ -1,7 +1,10 @@
 
-<h1 align="center" style="red">
-  Welcome to Mamta's Data World 
-</h1>
+<h1 align="center" >
+
+Welcome to Mamta's Data World 
+
+</h1> 
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="150"/>
@@ -24,7 +27,7 @@
 
 - :seedling: Exploring Machine Learning and Artificial Intelligence.
 
-- :zap: In my free time, I solve problems, read articles, watch anime and crime shows.
+- :zap: In my free time, I solve problems, read articles, watch action and crime shows.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/mamta-kumari-432337129/))
 
