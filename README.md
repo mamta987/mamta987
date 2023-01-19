@@ -48,7 +48,7 @@ Welcome to Mamta's Data World
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white)
 
-## :fire: My Stats:
+## :fire: My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mamta987&theme=dark&background=000000)](https://git.io/streak-stats)
 
