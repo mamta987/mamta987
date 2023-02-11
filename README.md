@@ -57,9 +57,7 @@ Welcome to Mamta's Data World
 
 ![Mamta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamta987&theme=ocean_dark&show_icons=true)
 
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamta987&theme=ocean_dark&show_icons=true&langs_count=8)](https://github.com/amamta987/github-readme-stats)
 
 
 <!---
